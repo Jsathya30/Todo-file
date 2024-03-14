@@ -1,0 +1,22 @@
+/* mobile-view */
+@media(min-width:320px){
+	.container{
+	width:70%;
+	margin:auto;
+	}
+}
+
+/* tab-view */
+@media(min-width:760px){
+	.container{
+	width:40%;
+	margin:auto;
+	}
+}
+
+/* desktop-view */
+@media(min-width:980px){
+	.container{
+	width:25%;
+	margin:auto;
+	}
